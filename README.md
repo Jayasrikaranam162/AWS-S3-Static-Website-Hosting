@@ -17,7 +17,7 @@ The website contains:
 - README.md
 
 ## Code Screenshot
-
+https://github.com/Jayasrikaranam162/AWS-S3-Static-Website-Hosting/blob/main/code.png
 
 ## Output Screenshot
 (Add your browser output screenshot here)
