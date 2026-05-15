@@ -20,7 +20,7 @@ The website contains:
 https://github.com/Jayasrikaranam162/AWS-S3-Static-Website-Hosting/blob/main/code.png
 
 ## Output Screenshot
-(Add your browser output screenshot here)
+https://github.com/Jayasrikaranam162/AWS-S3-Static-Website-Hosting/blob/main/output.png
 
 ## Output
 The webpage successfully displays the static content in the browser.
